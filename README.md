@@ -1,5 +1,5 @@
 # PIVlab-analysis
-Scripts developed for flow property calculation based on PIVlab outputs
+Scripts developed for simple flow property calculation based on PIVlab outputs
 
 These scripts were developed as part of a Cardiff University research project for the EN509 Dissertation module. They are designed to be used alongside the MATLAB application PIVlab, drawing on the output .mat files produced by the software.
 
